@@ -40,7 +40,7 @@
 ## Team Roles
 - **{{PM_NAME}}:** Project Manager, {{additional_responsibilities}}
 - **{{MEMBER_2}}:** {{role}} (e.g., Frontend Lead, Backend Lead, UI/UX, DevOps)
-- **{{Samyog Maharjan}}:{{role}}
+- **{{Samyog}}:{{role}}
 - **{{MEMBER_4}}:** {{role}}
 - **{{MEMBER_5}}:** {{role}}
 
